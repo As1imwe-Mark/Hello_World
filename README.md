@@ -142,7 +142,9 @@ If you like this project like it and give me a follow.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Naan Ahmed [@naanahmed] for his tireless support throuht the course of this project.
+I would like to thank Naan Ahmed [@naanahmed]👤 **Naan Ahmed**
+
+- GitHub: [@naanahmed](https://github.com/naanahmed) for his tireless support throuht the course of this project.
 
 
 
